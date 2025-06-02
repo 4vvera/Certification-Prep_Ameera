@@ -1,4 +1,5 @@
-body
+
+﻿body
 {
     font-family:"Segoe UI",Tahoma,sans-serif;
     background-color:#fab66b;
@@ -6,7 +7,8 @@ body
 p {
     color: navy;
 }
-.sale {
+
+.sale{
     font-weight: bold;
     background-color: aqua;
 }
