@@ -13,11 +13,12 @@ p {
 #sidenote {
     background-color:#dbd9d9;
 }
-a {
+
+a{
     text-decoration: none;
 }
 
-a:hover {
+a:hover{
     text-decoration: underline;
     font-weight: bold;
 }
